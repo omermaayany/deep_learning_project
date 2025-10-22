@@ -1,0 +1,9 @@
+{
+  "host": "0.0.0.0",
+  "port": 8080,
+  "models": [
+    { "model": "models/Llama-3.2-1B-Instruct-Q4_K_M.gguf", "model_alias": "llama-3.2" },
+    { "model": "models/Phi-3-mini-4k-instruct-q4.gguf",    "model_alias": "phi-3-mini" },
+    { "model": "models/mistral-7b-instruct-v0.2.Q4_K_M.gguf", "model_alias": "mistral-7b" }
+  ]
+}
