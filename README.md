@@ -9,7 +9,7 @@ This repository contains the main code used to run the experiments in two **Goog
 Setup Instructions
 
 1. **Connect to Google Drive** using the following link:  
-   ➤ [Add Drive link here]
+   ➤ https://drive.google.com/drive/folders/1OBRXBehcxhPZ2TvTcFxc7FoSOYpZM0Ph?usp=sharing
 
    The Drive folder contains:
    - Pretrained models required for running the experiments  
